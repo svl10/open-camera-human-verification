@@ -1,0 +1,6 @@
+﻿  Should be the final.cpp
+D:\Final Proj\Do I really have to do this\TestOpenCV\Should be the final.cpp(82,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Final Proj\Do I really have to do this\TestOpenCV\Should be the final.cpp(96,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Final Proj\Do I really have to do this\TestOpenCV\Should be the final.cpp(102,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LINK : D:\Final Proj\Do I really have to do this\x64\Debug\TestOpenCV.exe not found or not built by the last incremental link; performing full link
+LINK : fatal error LNK1105: cannot close file 'D:\Final Proj\Do I really have to do this\x64\Debug\TestOpenCV.exe'
